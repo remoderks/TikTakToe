@@ -141,6 +141,7 @@ public class Game {
 
 
     /**
+     * !!! Starting from here the piece of code was written by me. !!!
      * Checks if the game has ended either because a player has won, or if the game has ended as a tie.
      * If game hasn't ended the return string has to be "None",
      * If the game ends as tie, the return string has to be "Tie",
